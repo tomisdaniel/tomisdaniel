@@ -5,9 +5,10 @@
 ## 👨‍💻 About Me
 - 🌐 I’m a front-end enthusiast with experience in **HTML**, **CSS**, **JavaScript**, and **React**.
 - 🤖 I love working with **microcontrollers** and building hardware projects.
+- 🔧 Would love ro gain more experiece in **microsoldering**
 - 🚀 I'm involved in exciting projects like:
   - **Czech Rocket Society** – (C, C++) Developing software for rockets and other aerospace applications.
-  - **CanSat** – (Arduino, Python, React) Building and programming a satellite model for real-world applications.
+  - **CanSat** – (Wiring, Python, Flask, React, Node) Building and programming a satellite model for real-world applications.
 
 ## Techstack
 <a title="JavaScript"><img height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
@@ -23,5 +24,6 @@
 ## 🌱 I’m currently improving my skills in:
 - Advanced **React** concepts
 - **Microcontroller programming**
-- **C** and **C++** 
+- **C** and **C++**
+- Interested in **microsoldering** and **HW repairs**
 
