@@ -1,12 +1,12 @@
-# Hi there, I'm Daniel Tomis! 👋
+# Hello, world, I'm Daniel Tomis! 👋
 
-🎓 Currently studying IT at a secondary technical school, I'm passionate about building innovative solutions through front-end development and low level programming. 
+🎓 Currently studying IT at a secondary technical school, I'm enthusiastic about building creative solutions through front-end development and low level programming. 
 
 ## 👨‍💻 About Me
-- 🌐 I’m a front-end enthusiast with experience in **HTML**, **CSS**, **JavaScript**, and **React**.
+- 🌐 I’m a front-end development devotee with experience in **HTML**, **CSS**, **JavaScript**, and **React**.
 - 🤖 I love working with **microcontrollers** and building hardware projects.
-- 🔧 Would love to gain more experiece in **microsoldering**
-- 🚀 I'm involved in exciting projects like:
+- 🔧 I Would love to gain more experiece in **microsoldering**, because i find myself quite passionate about it.
+- 🚀 I'm involved in exciting communities/projects like:
   - **Czech Rocket Society** – (C, C++) Developing software for rockets and other aerospace applications.
   - **CanSat** – (Wiring, Python, Flask, React, Node) Building and programming a satellite model for real-world applications.
 
